@@ -65,8 +65,3 @@ dotnet run --project src/EmojiForge.WinForms
 ## License
 - Project code: MIT (see `LICENSE`)
 - Model weights: Apache 2.0 (FLUX.2 [klein] 4B)
-
-## CI / Releases
-- Workflow: `.github/workflows/windows-release.yml`
-- Push/PR to `main`: builds and uploads Windows artifacts
-- Tag `v*` (example `v1.0.0`): publishes a GitHub Release with WinForms packaged binary
