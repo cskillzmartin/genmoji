@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Outputs
+output/
+*.log
+
+# VS
+.vs/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
