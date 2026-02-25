@@ -1,4 +1,4 @@
-# EmojiForge
+# GenMoji
 
 Generate AI-transformed emoji sets locally using FLUX.2 [klein] 4B.
 
